@@ -1,0 +1,17 @@
+ 
+
+.row {
+        margin: 0 auto;
+/*
+    align-items: center;
+    text-align: center;
+*/
+    }
+
+    input {
+        display: block;
+    }
+/*
+label{
+    display: block;
+}*/
